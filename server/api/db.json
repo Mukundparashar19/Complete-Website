@@ -1,0 +1,103 @@
+[
+    {
+      "id":"10",
+      "title":"Eloquent JavaScript, Third Edition",
+      "subtitle":"A Modern Introduction to Programming",
+      "author":"Marijn Haverbeke",
+      "published":"2018-12-04",
+      "publisher":"No Starch Press",
+      "pages":472,
+      "description":"JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. The first popular web browser with a graphical user interface, Mosaic, was released in 1993. Accessible to non-technical people, it played a prominent role in the rapid growth of the early World Wide Web.[12] The lead developers of Mosaic then founded the Netscape corporation, which released a more polished browser, Netscape Navigator, in 1994. This quickly became the most-used.[13]\n\nDuring these formative years of the Web, web pages could only be static, lacking the capability for dynamic behavior after the page was loaded in the browser. There was a desire in the flourishing web development scene to remove this limitation, so in 1995, Netscape decided to add a programming language to Navigator. They pursued two routes to achieve this: collaborating with Sun Microsystems to embed the Java language, while also hiring Brendan Eich to embed the Scheme language.[6] ",
+      "website":"http://eloquentjavascript.net/"
+    },
+    {
+      "id":"20",
+      "title":"Practical Modern JavaScript",
+      "subtitle":"Dive into ES6 and the Future of JavaScript",
+      "author":"Nicolás Bevacqua",
+      "published":"2017-07-16",
+      "publisher":"O'Reilly Media",
+      "pages":334,
+      "description":"To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details. language.[6]\n\nThe goal was a \"language for the masses\",[14] \"to help nonprogrammers create dynamic, interactive Web sites\".[15] Netscape management soon decided that the best option was for Eich to devise a new language, with syntax similar to Java and less like Scheme or other extant scripting languages.[5][6] Although the new language and its interpreter implementation were called LiveScript when first shipped as part of a Navigator beta in September 1995, the name was changed to JavaScript for the official release in December.[6][1][16]\n\nThe choice of the JavaScript name has caused confusion, implying that it is directly related to Java. At the time, the dot-com boom had begun and Java was a popular new language, so Eich considered the JavaScript name a marketing ploy by Netscape.[14] ",
+      "website":"https://github.com/mjavascript/practical-modern-javascript"
+    },
+    {
+      "id":"30",
+      "title":"Understanding ECMAScript 6",
+      "subtitle":"The Definitive Guide for JavaScript Developers",
+      "author":"Nicholas C. Zakas",
+      "published":"2016-09-03",
+      "publisher":"No Starch Press",
+      "pages":352,
+      "description":"ECMAScript 6 represents the biggest update to the core of JavaScript in the history of the language. In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript. In November 1996, Netscape submitted JavaScript to Ecma International, as the starting point for a standard specification that all browser vendors could conform to. This led to the official release of the first ECMAScript language specification in June 1997.\n\nThe standards process continued for a few years, with the release of ECMAScript 2 in June 1998 and ECMAScript 3 in December 1999. Work on ECMAScript 4 began in 2000.[17]\n\nHowever, the effort to fully standardize the language was undermined by Microsoft gaining an increasingly dominant position in the browser market. By the early 2000s, Internet Explorer's market share reached 95%.[21] This meant that JScript became the de facto standard for client-side scripting on the Web. ",
+      "website":"https://leanpub.com/understandinges6/read"
+    },
+    {
+      "id":"40",
+      "title":"Speaking JavaScript",
+      "subtitle":"An In-Depth Guide for Programmers",
+      "author":"Axel Rauschmayer",
+      "published":"2014-04-08",
+      "publisher":"O'Reilly Media",
+      "pages":460,
+      "description":"Like it or not, JavaScript is everywhere these days -from browser to server to mobile- and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position.  During the period of Internet Explorer dominance in the early 2000s, client-side scripting was stagnant. This started to change in 2004, when the successor of Netscape, Mozilla, released the Firefox browser. Firefox was well received by many, taking significant market share from Internet Explorer.[22]\n\nIn 2005, Mozilla joined ECMA International, and work started on the ECMAScript for XML (E4X) standard. This led to Mozilla working jointly with Macromedia (later acquired by Adobe Systems), who were implementing E4X in their ActionScript 3 language, which was based on an ECMAScript 4 draft. The goal became standardizing ActionScript 3 as the new ECMAScript 4. To this end, Adobe Systems released the Tamarin implementation as an open source project. However, Tamarin and ActionScript 3 were too different from established client-side scripting, and without cooperation from Microsoft, ECMAScript 4 never reached fruition.\n\n",
+      "website":"http://speakingjs.com/"
+    },
+    {
+      "id":"50",
+      "title":"Learning JavaScript Design Patterns",
+      "subtitle":"A JavaScript and jQuery Developer's Guide",
+      "author":"Addy Osmani",
+      "published":"2012-08-30",
+      "publisher":"O'Reilly Media",
+      "pages":254,
+      "description":"With Learning JavaScript Design Patterns, you'll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language. If you want to keep your code efficient, more manageable, and up-to-date with the latest best practices, this book is for you.  Meanwhile, very important developments were occurring in open-source communities not affiliated with ECMA work. In 2005, Jesse James Garrett released a white paper in which he coined the term Ajax and described a set of technologies, of which JavaScript was the backbone, to create web applications where data can be loaded in the background, avoiding the need for full page reloads. This sparked a renaissance period of JavaScript, spearheaded by open-source libraries and the communities that formed around them. Many new libraries were created, including jQuery, Prototype, Dojo Toolkit, and MooTools.\n\nGoogle debuted its Chrome browser in 2008, with the V8 JavaScript engine that was faster than its competition.[23][24] The key innovation was just-in-time compilation (JIT),[25] so other browser vendors needed to overhaul their engines for JIT.[26]",
+      "website":"http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/"
+    },
+    {
+      "id":"60",
+      "title":"You Don't Know JS Yet",
+      "subtitle":"Get Started",
+      "author":"Kyle Simpson",
+      "published":"2020-01-28",
+      "publisher":"Independently published",
+      "pages":143,
+      "description":"The worldwide best selling You Don't Know JS book series is back for a 2nd edition: You Don't Know JS Yet. All 6 books are brand new, rewritten to cover all sides of JS for 2020 and beyond.  The creation of Node.js in 2009 by Ryan Dahl sparked a significant increase in the usage of JavaScript outside of web browsers. Node combines the V8 engine, an event loop, and I/O APIs, thereby providing a stand-alone JavaScript runtime system.[28][29] As of 2018, Node had been used by millions of developers,[30] and npm had the most modules of any package manager in the world.[31]\n\nThe ECMAScript draft specification is currently maintained openly on GitHub,[32] and editions are produced via regular annual snapshots.[32] Potential revisions to the language are vetted through a comprehensive proposal process.[33][34] Now, instead of edition numbers, developers check the status of upcoming features individually.[32]\n\nThe current JavaScript ecosystem has many libraries and frameworks, established programming practices, and substantial usage of JavaScript outside of web browsers. Plus, with the rise of single-page applications and other JavaScript-heavy websites, several transpilers have been created to aid the development process.[35]",
+      "website":"https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started"
+    },
+    {
+      "id":"70",
+      "title":"Pro Git",
+      "subtitle":"Everything you neeed to know about Git",
+      "author":"Scott Chacon and Ben Straub",
+      "published":"2014-11-18",
+      "publisher":"Apress; 2nd edition",
+      "pages":458,
+      "description":"Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro. The use of JavaScript has expanded beyond its web browser roots. JavaScript engines are now embedded in a variety of other software systems, both for server-side website deployments and non-browser applications.\n\nInitial attempts at promoting server-side JavaScript usage were Netscape Enterprise Server and Microsoft's Internet Information Services,[42][43] but they were small niches.[44] Server-side usage eventually started to grow in the late 2000s, with the creation of Node.js and other approaches.[44]\n\nElectron, Cordova, React Native, and other application frameworks have been used to create many applications with behavior implemented in JavaScript. Other non-browser applications include Adobe Acrobat support for scripting PDF documents[45] and GNOME Shell extensions written in JavaScript.[46]",
+      "website":"https://git-scm.com/book/en/v2"
+    },
+    {
+      "id":"80",
+      "title":"Rethinking Productivity in Software Engineering",
+      "subtitle":"abcg efgh ijkl",
+      "author":"Caitlin Sadowski, Thomas Zimmermann",
+      "published":"2019-05-11",
+      "publisher":"Apress",
+      "pages":310,
+      "description":"Get the most out of this foundational reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 \"Dagstuhl\" seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity. The JavaScript engine must be embedded within a runtime system (either a web browser or a standalone system) to provide objects and methods by which scripts can interact with the larger environment. This includes the necessary APIs for I/O, such as networking, storage, or graphics facilities. The runtime also provides the ability to import scripts.\n\nJavaScript is a single-threaded language. The runtime processes messages from a queue one at a time, and it calls a function associated with each new message, creating a call stack frame with the function's arguments and local variables. The call stack shrinks and grows based on the function's needs. When the call stack is empty upon function completion, JavaScript proceeds to the next message in the queue. This is called the event loop, described as \"run to completion\" because each message is fully processed before the next message is considered. However, the language's concurrency model describes the event loop as non-blocking: program I/O is performed using events and callback functions. This means, for example, that JavaScript can process a mouse click while waiting for a database query to return information.[54]",
+      "website":"https://doi.org/10.1007/978-1-4842-4221-6"
+    },
+  {
+    "id":"90",
+    "title":"Rethinking Productivity in Software Engineering 2",
+    "subtitle":"abcg efgh ijkl",
+    "author":"Caitlin Sadowski, Thomas Zimmermann",
+    "published":"2019-05-11",
+    "publisher":"Apress",
+    "pages":310,
+    "description":"Get the most out of this foundational reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 \"Dagstuhl\" seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity. The JavaScript engine must be embedded within a runtime system (either a web browser or a standalone system) to provide objects and methods by which scripts can interact with the larger environment. This includes the necessary APIs for I/O, such as networking, storage, or graphics facilities. The runtime also provides the ability to import scripts.\n\nJavaScript is a single-threaded language. The runtime processes messages from a queue one at a time, and it calls a function associated with each new message, creating a call stack frame with the function's arguments and local variables. The call stack shrinks and grows based on the function's needs. When the call stack is empty upon function completion, JavaScript proceeds to the next message in the queue. This is called the event loop, described as \"run to completion\" because each message is fully processed before the next message is considered. However, the language's concurrency model describes the event loop as non-blocking: program I/O is performed using events and callback functions. This means, for example, that JavaScript can process a mouse click while waiting for a database query to return information.[54]",
+    "website":"https://doi.org/10.1007/978-1-4842-4221-6"
+  }
+  ]
+
+
